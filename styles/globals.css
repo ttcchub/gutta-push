@@ -631,8 +631,7 @@ padding: 30px 65px;
   transition: .3s ease-in-out;
 }
 .product-detail-image:hover{
-  background-color: #f32551;
-
+  background-color: #ffffff;
 }
 .small-images-container{
   display: flex;
@@ -936,7 +935,7 @@ padding: 30px 65px;
   .main-container{
     max-width: auto; 
     margin: auto;
-    width: 98%;
+    width: 100%;
     }
     
   .hero-banner-container{
@@ -1033,6 +1032,7 @@ padding: 30px 65px;
   .product-detail-container .product-detail-image{
     width: 350px;
     height: 350px;
+    scale: 95%;
   }
   .cart-container{
     width: 415px;
